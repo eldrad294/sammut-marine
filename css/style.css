@@ -2297,6 +2297,12 @@ textarea {
   position: relative;
   z-index: 2;
 }
+.contact .contact-form #contact .form-group input[type=email] {
+  width: 400px;
+  background: none;
+  position: relative;
+  z-index: 2;
+}
 .contact .contact-form #contact .form-group input:focus + span {
   font-size: 13px;
   line-height: 16px;
