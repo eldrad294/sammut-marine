@@ -380,3 +380,7 @@
 
 
 })(jQuery);
+
+if ($(window).width() < 300) {
+  $("video#backdrop-video").attr('src' , 'videos/sammut-marine-website-backdrop-mobile.mp4');
+}
