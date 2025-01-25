@@ -1110,7 +1110,7 @@ textarea {
   background: #222327;
 }
 .video-hero .video-bg video {
-  min-width: 100%;
+  max-width: 100%;
   min-height: 100%;
   position: absolute;
   left: 50%;
@@ -1307,7 +1307,7 @@ textarea {
   overflow: hidden;
 }
 .page-header .video-bg video {
-  min-width: 100%;
+  max-width: 100%;
   min-height: 100%;
   position: absolute;
   left: 50%;
